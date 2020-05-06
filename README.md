@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker Name Tags v4
-// @namespace    https://github.com/iAlexMan/Krunker-Esp
-// @author       iAlexMan
+// @namespace    https://github.com/Lemons1337/KrunkServ
+// @author       SkidLamer
 // @match        *://krunker.io/*
 // @run-at       document-start
 // @grant        none
